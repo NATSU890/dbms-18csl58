@@ -1,1 +1,1 @@
-# dbms-18csl58
+ai and ml lab manual
